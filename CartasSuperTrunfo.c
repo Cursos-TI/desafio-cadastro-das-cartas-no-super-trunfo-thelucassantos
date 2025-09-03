@@ -35,7 +35,7 @@ int main() {
     printf("Estado:\n");
     scanf("%s", estado1);
 
-    printf("Cidade:\n");F
+    printf("Cidade:\n");
     scanf("%s", cidade1);
 
     printf("População:\n");
